@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Loaner Request">3f5e6815899302107f44ab9c2b2de366</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Loaner Requests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_wishlist_loaner_request</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_wishlist.loaner_request_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 18:26:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3b5e6815899302107f44ab9c2b2de36a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wishlist" source="x_snc_wishlist">13015851891302107f44ab9c2b2de3fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wishlist">13015851891302107f44ab9c2b2de3fb</sys_scope>
+        <sys_update_name>sys_app_module_3b5e6815899302107f44ab9c2b2de36a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 18:26:44</sys_updated_on>
+        <timeline_page/>
+        <title>Loaner Requests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">13015851891302107f44ab9c2b2de3fb</application>
+        <file_path/>
+        <instance_id>e30f56cd93dfc650dd40768efaba103a</instance_id>
+        <instance_name>nowlearning-nlinst01867299-0001</instance_name>
+        <name>sys_app_module_3b5e6815899302107f44ab9c2b2de36a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Loaner Request">3f5e6815899302107f44ab9c2b2de366</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Loaner Requests</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_wishlist_loaner_request</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_snc_wishlist.loaner_request_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-08 18:26:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3b5e6815899302107f44ab9c2b2de36a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Requests</sys_name><sys_overrides/><sys_package display_value="Wishlist" source="x_snc_wishlist">13015851891302107f44ab9c2b2de3fb</sys_package><sys_policy/><sys_scope display_value="Wishlist">13015851891302107f44ab9c2b2de3fb</sys_scope><sys_update_name>sys_app_module_3b5e6815899302107f44ab9c2b2de36a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-08 18:26:44</sys_updated_on><timeline_page/><title>Loaner Requests</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1563226662</payload_hash>
+        <record_name>Loaner Requests</record_name>
+        <reverted_from/>
+        <source>17015851891302107f44ab9c2b2de3fd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 18:26:44</sys_created_on>
+        <sys_id>3f5e6815899302107f44ab9c2b2de36d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190939922680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 18:26:44</sys_updated_on>
+        <type>Module</type>
+        <update_guid>735e68153e930210bb035281f9f0bb6d</update_guid>
+        <update_guid_history>735e68153e930210bb035281f9f0bb6d:1563226662</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Requests">7a5034d5899302107f44ab9c2b2de36a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 18:35:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2826b14e91fd41c0904acee7771a2101</sys_id>
+        <sys_metadata>3b5e6815899302107f44ab9c2b2de36a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Requests</sys_name>
+        <sys_package display_value="Wish List" source="x_snc_wishlist">13015851891302107f44ab9c2b2de3fb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">13015851891302107f44ab9c2b2de3fb</sys_scope>
+        <sys_scope_delete display_value="">1732f2d0c7364af38be55f2c05aa8c89</sys_scope_delete>
+        <sys_update_name>sys_app_module_3b5e6815899302107f44ab9c2b2de36a</sys_update_name>
+        <sys_update_version display_value="sys_app_module_3b5e6815899302107f44ab9c2b2de36a">3f5e6815899302107f44ab9c2b2de36d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 18:35:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
