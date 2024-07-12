@@ -7,14 +7,14 @@
         <hint/>
         <name>Loaner Request</name>
         <order>100</order>
-        <roles>x_snc_wishlist.loaner_request_user</roles>
+        <roles>x_snc_wishlist.user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-08 18:26:44</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3f5e6815899302107f44ab9c2b2de366</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Wish list</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wish List" source="x_snc_wishlist">13015851891302107f44ab9c2b2de3fb</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Wish List">13015851891302107f44ab9c2b2de3fb</sys_scope>
         <sys_update_name>sys_app_application_3f5e6815899302107f44ab9c2b2de366</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-08 18:35:51</sys_updated_on>
+        <sys_updated_on>2024-07-11 22:45:52</sys_updated_on>
         <title>Wish list</title>
         <view_name/>
     </sys_app_application>
